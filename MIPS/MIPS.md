@@ -1,7 +1,7 @@
 # MIPS
 **写在前面**:smirk:  
 
-![MIPS](MIPS/title.jpg)
+![MIPS](./title.jpg)
 
 
 
